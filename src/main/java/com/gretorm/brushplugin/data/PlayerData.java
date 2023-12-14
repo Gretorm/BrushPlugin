@@ -1,4 +1,4 @@
-package com.gretorm.timercheck.data;
+package com.gretorm.brushplugin.data;
 
 import org.bson.*;
 import org.bukkit.Material;

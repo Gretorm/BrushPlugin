@@ -1,7 +1,6 @@
-package com.gretorm.timercheck.utils;
+package com.gretorm.brushplugin.utils;
 
 import org.bukkit.FluidCollisionMode;
-import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Entity;
@@ -11,6 +10,9 @@ import org.bukkit.util.Vector;
 
 import java.util.function.Predicate;
 
+/**
+ * Utils function on player
+ */
 public class PlayerUtils {
 
     /**
